@@ -93,3 +93,9 @@ Contributions are welcome! Please ensure that new entries include:
 3. Optional short summary of the contribution  
 
 ---
+
+---
+
+## QAI-brain Research Collection
+
+This repository is part of the [QAI-brain](https://github.com/QAI-brain) open research and software collection. Browse the [central Quantum AI paper index](https://github.com/QAI-brain/QAI-Papers) for related topics and repositories.
