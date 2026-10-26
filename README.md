@@ -1,17 +1,17 @@
 # 🔄 Quantum Natural Language Processing (QText) Papers
 
 This section of the **Quantum AI Papers** repository focuses on **Quantum Natural Language Processing (QText)**.  
-QTL leverages knowledge from pre-trained quantum or hybrid quantum-classical models and adapts it to new tasks or domains. This paradigm plays a crucial role in overcoming limitations of small datasets, reducing training costs, and accelerating the deployment of quantum-enhanced AI systems.  
+QText/QNLP studies quantum and hybrid quantum-classical methods for representing, processing, and learning from natural language. This paradigm addresses language tasks such as compositional semantics, text classification, inference, translation, and language understanding.  
 
 ---
 
 ## 📚 Scope
 Research papers in this category explore:
-- Transfer of learned quantum circuit parameters between tasks  
-- Hybrid classical–quantum transfer learning frameworks  
-- Applications of QTL in physics, chemistry, medical imaging, and natural language processing  
-- Optimization strategies to mitigate issues such as barren plateaus  
-- Cross-domain transfer of quantum models for practical real-world problems  
+- Compositional semantics, grammar, and quantum language models  
+- Quantum and hybrid quantum-classical methods for text classification, inference, and translation  
+- Quantum embeddings, attention, recurrent architectures, and language-model training  
+- Applications of QNLP to multilingual language, bioinformatics, sentiment, and information extraction  
+- Evaluation, trainability, scalability, and NISQ-era implementation of QNLP systems  
 
 ---
 
@@ -68,6 +68,34 @@ Research papers in this category explore:
 | Quantum-like implicit sentiment analysis with sememes knowledge                                                                        |   2023 | ScienceDirect                                                                     | Hongbin Wang,  Minghui Hou                                                                                            | https://doi.org/10.1016/j.eswa.2023.120720                                                                                                          | Qtext      |
 | Design of a Quantum Self-Attention Neural Network on Quantum Circuits                                                                  |   2023 | IEEE                                                                              | Jin Zheng; Qing Gao; Zibo Miao                                                                                        | https://doi.org/10.1109/SMC53992.2023.10393989                                                                                                      | Qtext      |
 | Implications of Deep Circuits in Improving Quality of Quantum Question Answering                                                       |   2023 | Springer                                                                          | Pragya Katyayan & Nisheeth Joshi                                                                                      | https://doi.org/10.1007/978-981-19-9530-9_23                                                                                                        | Qtext      |
+
+### Newly added and verified literature (2024–2026)
+
+| title | year | publisher | Author | link | category |
+|:---|---:|:---|:---|:---|:---|
+| Quantum Natural Language Processing | 2024 | Springer | Dominic Widdows; Willie Aboumrad; Dohun Kim; Sayonee Ray; Jonathan Mei | https://doi.org/10.1007/s13218-024-00861-w | Qtext |
+| Quantum Natural Language Processing: A Comprehensive Survey | 2024 | IEEE | Charles M. Varmantchaonala; Jean Louis K. E. Fendji; Julius Schöning; Marcellin Atemkeng | https://doi.org/10.1109/ACCESS.2024.3420707 | Qtext |
+| Large scale structure-aware pronoun resolution using quantum natural language processing | 2024 | Springer | Hadi Wazni; Kin Ian Lo; Lachlan McPheat; Mehrnoosh Sadrzadeh | https://doi.org/10.1007/s42484-024-00193-w | Qtext |
+| Quantum-inspired language models based on unitary transformation | 2024 | Elsevier | Zipeng Fan; Jing Zhang; Peng Zhang; Qianxi Lin; Yizhe Li; Yuhua Qian | https://doi.org/10.1016/j.ipm.2024.103741 | Qtext |
+| Self-supervised pre-trained neural network for quantum natural language processing | 2024 | Elsevier | Ben Yao; Prayag Tiwari; Qiuchi Li | https://doi.org/10.1016/j.neunet.2024.107004 | Qtext |
+| Quantum Recurrent Architectures for Text Classification | 2024 | Association for Computational Linguistics | Wenduan Xu; Stephen Clark; Douglas Brown; Gabriel Matos; Konstantinos Meichanetzidis | https://aclanthology.org/2024.emnlp-main.1000/ | Qtext |
+| Strongly Entangling Neural Network: Quantum-Classical Hybrid Model for Quantum Natural Language Processing | 2024 | Springer | Francisco Javier Delgado-Cepeda | https://doi.org/10.1007/978-3-031-52965-8_40 | Qtext |
+| Quantum Algorithms for Compositional Text Processing | 2024 | Electronic Proceedings in Theoretical Computer Science | Tuomas Laakkonen; Konstantinos Meichanetzidis; Bob Coecke | https://cgi.cse.unsw.edu.au/~eptcs/Published/QPL2024/Proceedings.pdf | Qtext |
+| A Systematic Survey of Quantum Natural Language Processing: Models, Encoding Paradigms, and Evaluation Methods | 2025 | Association for Computational Linguistics | Arpita Vats; Rahul Raja; Ashish Kattamuri; Abhinav Bohra | https://aclanthology.org/2025.quantumnlp-1.8/ | Qtext |
+| Quantum Natural Language Processing: A Comprehensive Review of Models, Methods, and Applications | 2025 | arXiv | Farha Nausheen; Khandakar Ahmed; M. Imad Khan | https://arxiv.org/abs/2504.09909 | Qtext |
+| Comparative Study of the Ansätze in Quantum Language Models | 2025 | Wiley | Jordi Del Castillo; Dan Zhao; Zongrui Pei | https://doi.org/10.1002/qute.202500134 | Qtext |
+| BERT-Residual Quantum Language Model Inspired by ODE Multi-Step Method | 2025 | IEEE | Shaohui Liang; Yingkui Wang; Shuxin Chen | https://doi.org/10.1109/ACCESS.2025.3533554 | Qtext |
+| Enhancing Text Classification Through Quantum Transfer Learning: A Hybrid Quantum-Classical Approach With Complex Kernel Self-Attention Networks | 2025 | IEEE | Xiaoxiao Chen; Xiaoping Lou | https://doi.org/10.1109/ACCESS.2025.3593052 | Qtext |
+| Quantum natural language processing and its applications in bioinformatics: a comprehensive review of methodologies, concepts, and future directions | 2025 | Frontiers | Gundala Pallavi; Rangarajan Prasanna Kumar | https://doi.org/10.3389/fcomp.2025.1464122 | Qtext |
+| Toward Quantum-Enhanced Natural Language Understanding: Sarcasm and Claim Detection with QLSTM | 2025 | RANLP | Riccardo Di Sipio; Jia-Hong Huang; Samuel Yen-Chi Chen; Stefano Mangini; Marcel Worring | https://acl-bg.org/proceedings/2025/RANLP%202025/pdf/2025.ranlp-1.97.pdf | Qtext |
+| A Survey of Quantum Natural Language Processing: From Compositional Models to NISQ-Era Empiricism | 2025 | Association for Computational Linguistics | Arpan Phukan; Asif Ekbal | https://aclanthology.org/2025.quantumnlp-1.9/ | Qtext |
+| FitQT: a fully integrated and trainable quantum transformer for scalable natural language processing | 2026 | IOP Publishing | Phan Cong Lenh Pham; The Anh Le | https://doi.org/10.1088/2631-8695/ae5507 | Qtext |
+| Hybrid quantum–classical machine translation | 2026 | Springer | Mina Abbaszadeh; Mariam Zomorodi; Mehrnoosh Sadrzadeh; Vahid Salari; Philip Kurian | https://doi.org/10.1007/s11128-025-05032-w | Qtext |
+| Quantum NLP Models on Natural Language Inference | 2026 | Springer | Ling Sun; Peter Sullivan; Michael Martin; Yun Zhou | https://doi.org/10.1007/978-3-032-13883-5_7 | Qtext |
+| A Quantum Semantic Framework for Natural Language Processing | 2026 | Springer | Christopher J. Agostino; Quan Le Thien; Molly Apsel; Denizhan Pak; Elina Lesyk; Ashabari Majumdar | https://doi.org/10.1007/978-3-032-13883-5_8 | Qtext |
+| Old Wine in New Bottles: Using Classical Word Embeddings in Gate-Based Quantum NLP Systems | 2026 | Springer | Damir Cavar; Koushik Reddy Parukola; James Bryan Graves; Shane A. Sparks | https://doi.org/10.1007/978-3-032-13883-5_9 | Qtext |
+| Extending the Frontiers of QNLP Beyond English: Grammar-Sensitive Pipeline for Hindi Sentiment Classification Using Compositional Quantum Models | 2026 | Springer | Gautami Sanjay Naik; Rishi Koushik Reddy Thippireddy; Naman Srivastava; Parishri Shah; Ravi Raj; Sunil Saumya; H. Aswath Babu | https://doi.org/10.1007/978-3-032-13883-5_10 | Qtext |
+| Compact Quantum Circuits for Martinican Creole LID: A Typologically Informed Proof-of-Concept | 2026 | Springer | Ludovic Mompelat | https://doi.org/10.1007/978-3-032-13883-5_11 | Qtext |
 
 
 ---
