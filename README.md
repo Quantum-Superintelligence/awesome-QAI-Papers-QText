@@ -96,6 +96,19 @@ Research papers in this category explore:
 | Old Wine in New Bottles: Using Classical Word Embeddings in Gate-Based Quantum NLP Systems | 2026 | Springer | Damir Cavar; Koushik Reddy Parukola; James Bryan Graves; Shane A. Sparks | https://doi.org/10.1007/978-3-032-13883-5_9 | Qtext |
 | Extending the Frontiers of QNLP Beyond English: Grammar-Sensitive Pipeline for Hindi Sentiment Classification Using Compositional Quantum Models | 2026 | Springer | Gautami Sanjay Naik; Rishi Koushik Reddy Thippireddy; Naman Srivastava; Parishri Shah; Ravi Raj; Sunil Saumya; H. Aswath Babu | https://doi.org/10.1007/978-3-032-13883-5_10 | Qtext |
 | Compact Quantum Circuits for Martinican Creole LID: A Typologically Informed Proof-of-Concept | 2026 | Springer | Ludovic Mompelat | https://doi.org/10.1007/978-3-032-13883-5_11 | Qtext |
+| Pretrained Quantum-Inspired Deep Neural Network for Natural Language Processing | 2024 | IEEE | Jinjing Shi; Tian Chen; Wei Lai; Shichao Zhang; Xuelong Li | https://doi.org/10.1109/TCYB.2024.3398692 | Qtext |
+| Comparing Natural Language Processing and Quantum Natural Processing approaches in text classification tasks | 2024 | Elsevier | David Peral-García; Juan Cruz-Benito; Francisco José García-Peñalvo | https://doi.org/10.1016/j.eswa.2024.124427 | Qtext |
+| These Aren’t the Vectors You’re Looking For: A Proof of Quantum Advantage in Compositional Generalization | 2025 | Association for Computational Linguistics | Karthik Srikumar | https://aclanthology.org/2025.quantumnlp-1.2/ | Qtext |
+| Hybrid Classical-Quantum Framework for Sentiment Classification and Claim Check-Worthiness Identification in Bengali | 2025 | Association for Computational Linguistics | Pritam Pal; Dipankar Das; Anup Kumar Kolya; Siddhartha Bhattacharyya | https://aclanthology.org/2025.quantumnlp-1.3/ | Qtext |
+| A Hybrid Quantum-Classical Fusion for Deep Semantic Paraphrase Detection | 2025 | Association for Computational Linguistics | Devanarayanan K; Fayas S Mohamad; Dheeraj V Mohan; Reshma Sheik | https://aclanthology.org/2025.quantumnlp-1.4/ | Qtext |
+| Quantum-Enhanced Gated Recurrent Units for Part-of-Speech Tagging | 2025 | Association for Computational Linguistics | Ashutosh Rai; Shyambabu Pandey; Partha Pakray | https://aclanthology.org/2025.quantumnlp-1.5/ | Qtext |
+| A Review of Quantum Computing Approaches to Semantic Search and Text Classification in Natural Language Processing | 2025 | Association for Computational Linguistics | Sauvik Bal | https://aclanthology.org/2025.quantumnlp-1.6/ | Qtext |
+| A Quantum Self-Attention Neural Network Model on Quantum Circuits | 2026 | IEEE | Jin Zheng; Qing Gao; Daoyi Dong; Maciej Ogorzalek; Yi Du | https://doi.org/10.1109/TCYB.2026.3704405 | Qtext |
+| Quantum Methods for Managing Ambiguity in Natural Language Processing | 2026 | Springer | Jurek Eisinger; Ward Gauderis; Lin de Huybrecht; Geraint A. Wiggins | https://doi.org/10.1007/s42484-026-00421-5 | Qtext |
+| Exploring all-quantum long short-term memory networks to enhance text sentiment classification | 2026 | Springer | Feng Yan; Jun Yang; Kazuhiro Kawamoto; Kiyoshi Hirota | https://doi.org/10.1007/s11128-026-05236-8 | Qtext |
+| QTopic: A novel quantum perspective on learning topics from text | 2026 | Elsevier | Monika Kabir; Mohammed Kaosar; Ferdous Sohel | https://doi.org/10.1016/j.neucom.2025.132483 | Qtext |
+| Unlocking the power of quantum computing in biomedical NLP for lung cancer diagnosis | 2026 | Springer | Cyrille YetuYetu Kesiku; Begonya Garcia-Zapirain; Adel S. Elmaghraby | https://doi.org/10.1007/s42484-026-00392-7 | Qtext |
+| Quantum-Inspired Transformers for Scalable Natural Language Processing Applications in Future AI | 2026 | Elsevier | Priya Vij; Parmanand Yadav | https://doi.org/10.1016/j.procs.2026.01.020 | Qtext |
 
 
 ---
